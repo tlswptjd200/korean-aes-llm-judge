@@ -187,4 +187,4 @@ TF-IDF 채점기는 문항이 바뀌자 QWK가 0.27에서 0.16으로 **40% 하�
 
 ---
 
-**코드:** (GitHub 저장소 링크) (데이터 로드 `load_data.py`, 베이스라인 `baselines.py`, 임베딩 `embed_ridge.py`, LLM 채점·주입 `llm_judge.py`, 분석·그림 `analyze.py`. 모든 무작위 분할은 seed 0으로 고정)
+**코드:** https://github.com/tlswptjd200/korean-aes-llm-judge (데이터 로드 `load_data.py`, 베이스라인 `baselines.py`, 임베딩 `embed_ridge.py`, LLM 채점·주입 `llm_judge.py`, 분석·그림 `analyze.py`. 모든 무작위 분할은 seed 0으로 고정)
