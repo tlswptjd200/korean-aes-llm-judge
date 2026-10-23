@@ -1,0 +1,14 @@
+# 비밀 키
+.env
+.env.*
+
+# AI Hub 원본 데이터와 학생 글 원문(재배포 불가) / 대용량 임베딩
+data/
+aes/out/essays.jsonl
+aes/out/*.npy
+
+# 수업 자료·녹취록 (저장소에 올리지 않음)
+/*.pdf
+/*.txt
+
+__pycache__/
